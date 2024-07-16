@@ -32,5 +32,5 @@ Prediction: Making predictions on the test set and preparing the submission file
 
 Results
 
-Our best model(Optuna-tuned XGBoost) achieved an accuracy of 89.3% on the validation set. The final submission file is available in the submissions directory. 
+Our best model(Optuna-tuned XGBoost) achieved an accuracy of 89.3% , F1 score is 89.42% on the validation set. The final submission file is available in the submissions directory. 
 
